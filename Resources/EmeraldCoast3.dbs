@@ -1,0 +1,294 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "ZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 1;
+		}
+		
+	}
+	
+	
+	MAP02
+	{
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 16;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+		}
+		
+	}
+	
+	
+	MAP03
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 16;
+		}
+		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
+	}
+	
+	
+	MAP04
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 1;
+		}
+		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
+	}
+	
+	
+	MAP05
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 8;
+		}
+		
+	}
+	
+	
+	MAP15
+	{
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 8;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+		}
+		
+	}
+	
+	
+	MAP11
+	{
+		
+		grid
+		{
+			background = "";
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			backsource = 0;
+			gridsize = 4;
+		}
+		
+		
+		resources
+		{
+		}
+		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
+	}
+	
+	
+	MAP12
+	{
+		
+		grid
+		{
+			background = "";
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			backsource = 0;
+			gridsize = 32;
+		}
+		
+		
+		resources
+		{
+		}
+		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
+	}
+	
+	
+	MAP13
+	{
+		
+		grid
+		{
+			background = "";
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			backsource = 0;
+			gridsize = 32;
+		}
+		
+		
+		resources
+		{
+		}
+		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
+	}
+	
+	
+	MAP14
+	{
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 8;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+		}
+		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
+	}
+	
+}
+

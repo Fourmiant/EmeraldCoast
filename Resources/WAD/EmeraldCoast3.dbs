@@ -46,6 +46,17 @@ maps
 		{
 		}
 		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
 	}
 	
 	

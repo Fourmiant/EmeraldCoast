@@ -13,12 +13,14 @@ Misc. Author Info       : 35 year old Doomer
 
 Description             : 
 
-Additional Credits to   : id software, Kinsie for the MIDI Floppy Disk, testers Marou700, fireyoshiqc and others.
+Additional Credits to   : id software, Kinsie for the MIDI Floppy Disk, James Paddock's Sigils MIDI and others.
                           All the authors of the tools used
+                          Marou700's level design ideas and tester
+                          fireyoshiqc's music mixing and editing skills and tester
 ===========================================================================
 * What is included *
 New levels              : Yes, 32 new levels.
-Sounds                  : No. Face it, custom sounds almost invariably are crap.
+Sounds                  : No.
 Music                   : Yes, various sources.
 Graphics                : No
 Dehacked/BEX Patch      : No
@@ -67,13 +69,13 @@ MAP02 - Lower Deck
 Music:  Sigil's d_sigil9
 
 MAP03 - Command Deck
-Music: 
+Music: Final Doom - TNT: Evilution's D_TNT_08
 
 MAP04 - Engineering Deck
 Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 
 MAP05 - Escapade
-Music: 
+Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
 
 ===========================================================================

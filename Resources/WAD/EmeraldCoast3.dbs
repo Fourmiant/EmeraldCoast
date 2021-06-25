@@ -79,6 +79,17 @@ maps
 			gridsize = 16;
 		}
 		
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				locknumber = 0;
+			}
+			
+		}
+		
 	}
 	
 	

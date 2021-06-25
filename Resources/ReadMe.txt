@@ -11,7 +11,12 @@ Email Address           : brock_light_speed@hotmail.com
 Other Files By Author   : quite a bunch, http://www.doom2.net/~erik/ 
 Misc. Author Info       : 35 year old Doomer
 
-Description             : 
+Description             : This is my first wad and my first shot at doom mapping.
+                          The goal is to attempt to recreate an experience close to
+                          vanilla doom mappacks. Keyword here, close.
+
+                          Best experienced with both crouch and jump disabled.
+                          Freelook is allowed, and autoaim is not mandatory.
 
 Additional Credits to   : id software, Kinsie for the MIDI Floppy Disk, James Paddock's Sigils MIDI and others.
                           All the authors of the tools used
@@ -32,16 +37,16 @@ Other                   :
 Game                    : DOOM2
 Map #                   : Map01-32
 Single Player           : Yes
-Cooperative 2-4 Player  : Yes 
+Cooperative 2-4 Player  : Yes
 Deathmatch 2-4 Player   : Yes, but not tested. Many levels are altered in-game to make them more hospitable to DM play.
 
-Difficulty Settings     : Yes, so I don't want to hear any whining about it being too difficult.
+Difficulty Settings     : Yes, so I don't want to hear any whining about it being too difficult (or too easy o.O).
 
  
 * Construction *
 Base                    : New levels from scratch
 Build Time              : No idea, way way too long anyway. I started this in late 2018.
-Editor(s) used          : Slade, DoombuilderX
+Editor(s) used          : Slade, DoombuilderX, Gimp
 
 Known Bugs              : Texture alignment bugs. Probably other bugs too.
 
@@ -62,6 +67,7 @@ Music: Sigil's D_sigilM.mid
 
 ===========================================================================
 Episode 1 - Space Station
+Small rooms and corridors. It's a claustrophobia nightmare.
 MAP01 - Living Quarters
 Music: Doom's D_E1M8
 
@@ -80,6 +86,7 @@ Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy U
 
 ===========================================================================
 Episode 2 - Canyon
+Big open outside areas.
 MAP06 - 
 Music: 
 
@@ -98,6 +105,7 @@ Music:
 
 ===========================================================================
 Episode 3 - UAC Base
+UAC Base is big and designed to be played in coop. Lots of mirror corridors and rooms.
 MAP11 - Silent Base
 Music: Descent's d_cent21
 

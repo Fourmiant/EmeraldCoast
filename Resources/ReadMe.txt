@@ -18,10 +18,10 @@ Description             : This is my first wad and my first shot at doom mapping
                           Best experienced with both crouch and jump disabled.
                           Freelook is allowed, and autoaim is not mandatory.
 
-Additional Credits to   : id software, Kinsie for the MIDI Floppy Disk, James Paddock's Sigils MIDI and others.
+Additional Credits to   : id software, Kinsie for the MIDI Floppy Disk, James Paddock's Sigils MIDI, Kolibri92's Remakes, and others.
                           All the authors of the tools used
                           Marou700's level design ideas and tester
-                          fireyoshiqc's music mixing and editing skills and tester
+                          fireyoshiqc's music mixing and editing skills, as well as tester
 ===========================================================================
 * What is included *
 New levels              : Yes, 32 new levels.
@@ -181,6 +181,6 @@ Secret Levels
 MAP31 - 
 Music: 
 
-MAP32 - 
-Music: 
+MAP32 - Cats and Mice
+Music: Doom's D_BUNNY
 

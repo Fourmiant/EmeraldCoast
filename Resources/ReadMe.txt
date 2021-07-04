@@ -18,10 +18,15 @@ Description             : This is my first wad and my first shot at doom mapping
                           Best experienced with both crouch and jump disabled.
                           Freelook is allowed, and autoaim is not mandatory.
 
-Additional Credits to   : id software, Kinsie for the MIDI Floppy Disk, James Paddock's Sigils MIDI, Kolibri92's Remakes, and others.
+Additional Credits to   : id software
                           All the authors of the tools used
                           Marou700's level design ideas and tester
                           fireyoshiqc's music mixing and editing skills, as well as tester
+                          James Paddock's MIDI
+                          Kinsie for the MIDI Floppy Disk
+                          Kolibri92's Remakes
+                          Void Warrior for testing
+                          Dusty_Rhodes for testing
 ===========================================================================
 * What is included *
 New levels              : Yes, 32 new levels.
@@ -50,7 +55,7 @@ Editor(s) used          : Slade, DoombuilderX, Gimp
 
 Known Bugs              : Texture alignment bugs. Probably other bugs too.
 
-May Not Run With...     : Doom2.exe. Don't even try it. The new version is however compatible with pure limit removing ports.
+May Not Run With...     : Doom2.exe. Don't even try it. This requires a Zdoom UDMF and ACS Scripts limiting removing port.
 
 Lame story (tm):
 You travel through dimensions and kill monsters, blah blah... Use your imagination. 
@@ -60,10 +65,10 @@ Here are the maps, presented in order:
 
 
 Intro
-Music: Sigil's D_sigilI.mid
+Music: Kolibri92's Remake of Sigil's Intro
 
 Intermission
-Music: Sigil's D_sigilM.mid
+Music: James Paddock's original Sigil's Intermission's MIDI
 
 ===========================================================================
 Episode 1 - Space Station
@@ -72,7 +77,7 @@ MAP01 - Living Quarters
 Music: Doom's D_E1M8
 
 MAP02 - Lower Deck
-Music:  Sigil's d_sigil9
+Music: James Paddock's original Sigil's MIDI - d_sigil9
 
 MAP03 - Command Deck
 Music: Final Doom - TNT: Evilution's D_TNT_08
@@ -159,7 +164,7 @@ Music:
 
 
 ===========================================================================
-Episode 6 - Hell Ground
+Episode 6 - Walk in Hell
 MAP26 - 
 Music: 
 

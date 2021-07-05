@@ -24,6 +24,7 @@ Additional Credits to   : id software
                           fireyoshiqc's music mixing and editing skills, as well as tester
                           James Paddock's MIDI
                           Kinsie for the MIDI Floppy Disk
+                          decino's junkyard's MIDI
                           Kolibri92's Remakes
                           Void Warrior for testing
                           Dusty_Rhodes for testing
@@ -86,7 +87,7 @@ MAP04 - Engineering Deck
 Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 
 MAP05 - Escapade
-Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
+Music: decino - Prowling Through the Fog
 
 
 ===========================================================================
@@ -189,3 +190,8 @@ Music:
 MAP32 - Cats and Mice
 Music: Doom's D_BUNNY
 
+
+
+NOTES
+
+Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA

@@ -21,7 +21,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 1;
+			gridsize = 16;
 		}
 		
 	}
@@ -35,7 +35,7 @@ maps
 			backoffsety = 0;
 			backoffsetx = 0;
 			backscalex = 100;
-			gridsize = 4;
+			gridsize = 32;
 			background = "";
 			backsource = 0;
 			backscaley = 100;
@@ -76,7 +76,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 64;
 		}
 		
 		
@@ -156,7 +156,7 @@ maps
 			backoffsety = 0;
 			backoffsetx = 0;
 			backscalex = 100;
-			gridsize = 8;
+			gridsize = 32;
 			background = "";
 			backsource = 0;
 			backscaley = 100;
@@ -181,7 +181,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 4;
+			gridsize = 8;
 		}
 		
 		
@@ -247,7 +247,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 32;
+			gridsize = 1;
 		}
 		
 		
@@ -277,7 +277,7 @@ maps
 			backoffsety = 0;
 			backoffsetx = 0;
 			backscalex = 100;
-			gridsize = 8;
+			gridsize = 32;
 			background = "";
 			backsource = 0;
 			backscaley = 100;

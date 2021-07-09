@@ -84,7 +84,7 @@ MAP03 - Command Deck
 Music: Final Doom - TNT: Evilution's D_TNT_08
 
 MAP04 - Engineering Deck
-Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
+Music: Blood's CBUNHOLY
 
 MAP05 - Escapade
 Music: decino - Prowling Through the Fog
@@ -194,4 +194,5 @@ Music: Doom's D_BUNNY
 
 NOTES
 
+Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA

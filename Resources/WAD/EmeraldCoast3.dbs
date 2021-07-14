@@ -143,6 +143,9 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			gridsize = 4;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 		
@@ -292,6 +295,9 @@ maps
 			background = "";
 			backsource = 0;
 			backscaley = 100;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 		
@@ -348,6 +354,31 @@ maps
 				
 			}
 			
+		}
+		
+	}
+	
+	
+	MAP06
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 1;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 	}

@@ -93,8 +93,8 @@ Music: decino - Prowling Through the Fog
 ===========================================================================
 Episode 2 - Canyon
 Big open outside areas.
-MAP06 - 
-Music: 
+MAP06 - Crash Landing
+Music: Blood's CBLOOD10
 
 MAP07 - 
 Music: 

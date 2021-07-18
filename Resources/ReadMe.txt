@@ -193,7 +193,7 @@ Music:
 ===========================================================================
 Secret Levels
 MAP31 - Hangar
-Music: Doom's D_E1_11
+Music: Tristan "Eris Falling" Clark's At Doom's Gate Remix (Doom's E1M1)
 
 MAP32 - Cats and Mice
 Music: Doom's D_BUNNY
@@ -211,3 +211,7 @@ https://www.jamespaddockmusic.com/
 Kolibri92's Remakes of Sigil can be found at the following links:
 https://www.youtube.com/Kolibri92/featured
 https://www.youtube.com/watch?v=EFltUEm3FGQ
+
+Tristan "Eris Falling" Clark can be found at the following links:
+https://www.youtube.com/TristanClarkMusic/featured
+https://www.youtube.com/watch?v=WhoY0bkKozU

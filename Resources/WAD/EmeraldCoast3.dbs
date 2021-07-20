@@ -22,6 +22,9 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			gridsize = 16;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 	}
@@ -433,6 +436,31 @@ maps
 				locknumber = 0;
 			}
 			
+		}
+		
+	}
+	
+	
+	MAP07
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 16;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 	}

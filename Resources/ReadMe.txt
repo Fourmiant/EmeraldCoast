@@ -28,6 +28,7 @@ Additional Credits to   : id software
                           Kinsie for the MIDI Floppy Disk
                           decino's junkyard's MIDI
                           Kolibri92's Remakes of James Paddock's MIDI
+                          Tristan "Eris Falling" Clark for his Doom E1M1 remix
                           Void Warrior for testing
                           Dusty_Rhodes for testing
 ===========================================================================
@@ -103,8 +104,8 @@ Big open outside areas.
 MAP06 - Crash Landing
 Music: Blood's CBLOOD10
 
-MAP07 - 
-Music: 
+MAP07 - Not so Simple
+Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
 MAP08 - 
 Music: 
@@ -203,7 +204,6 @@ Music: Doom's D_BUNNY
 NOTES
 
 Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
-Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
 James "Jimmy" Paddock is the original creator of the SIGIL MIDI OST.
 https://www.jamespaddockmusic.com/
@@ -212,6 +212,6 @@ Kolibri92's Remakes of Sigil can be found at the following links:
 https://www.youtube.com/Kolibri92/featured
 https://www.youtube.com/watch?v=EFltUEm3FGQ
 
-Tristan "Eris Falling" Clark can be found at the following links:
+Tristan "Eris Falling" Clark Doom E1M1 remix can be found at the following links:
 https://www.youtube.com/TristanClarkMusic/featured
 https://www.youtube.com/watch?v=WhoY0bkKozU

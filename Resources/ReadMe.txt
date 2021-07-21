@@ -107,8 +107,8 @@ Music: Blood's CBLOOD10
 MAP07 - Not so Simple
 Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
-MAP08 - 
-Music: 
+MAP08 - Tunnels
+Music: decino - Augmented Borealis
 
 MAP09 - 
 Music: 
@@ -215,3 +215,8 @@ https://www.youtube.com/watch?v=EFltUEm3FGQ
 Tristan "Eris Falling" Clark Doom E1M1 remix can be found at the following links:
 https://www.youtube.com/TristanClarkMusic/featured
 https://www.youtube.com/watch?v=WhoY0bkKozU
+
+decino's junkyard MIDI can be found at the following links:
+https://www.youtube.com/user/DecinoFreak
+https://www.youtube.com/watch?v=9sN-GdXk4TQ
+https://www.youtube.com/watch?v=UzWPpimZvPw

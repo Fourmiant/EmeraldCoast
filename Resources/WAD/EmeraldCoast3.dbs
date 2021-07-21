@@ -387,6 +387,27 @@ maps
 			gridoriginy = 0f;
 		}
 		
+		defaultfloortexture = "RROCK19";
+		defaultceiltexture = "F_SKY1";
+		defaulttoptexture = "STARTAN2";
+		defaultwalltexture = "STARTAN2";
+		defaultbottomtexture = "STARTAN2";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		viewpositionx = 74.28958f;
+		viewpositiony = -833.4791f;
+		viewscale = 0.2657312f;
+		scriptcompiler = "zdoom_acs.cfg";
 	}
 	
 	
@@ -458,6 +479,31 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			gridsize = 16;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
+		}
+		
+	}
+	
+	
+	MAP08
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 32;
 			gridrotate = 0f;
 			gridoriginx = 0f;
 			gridoriginy = 0f;

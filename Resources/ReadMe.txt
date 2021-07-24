@@ -108,10 +108,10 @@ MAP07 - Not so Simple
 Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
 MAP08 - Fissure
-Music: decino - Augmented Borealis
+Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 
-MAP09 - 
-Music: 
+MAP09 - Hut and Lake
+Music: decino - Augmented Borealis
 
 MAP10 - 
 Music: 
@@ -202,8 +202,6 @@ Music: Doom's D_BUNNY
 
 
 NOTES
-
-Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 
 James "Jimmy" Paddock is the original creator of the SIGIL MIDI OST.
 https://www.jamespaddockmusic.com/

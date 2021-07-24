@@ -107,7 +107,7 @@ Music: Blood's CBLOOD10
 MAP07 - Not so Simple
 Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
-MAP08 - Ground Fissure
+MAP08 - Fissure
 Music: decino - Augmented Borealis
 
 MAP09 - 

@@ -31,6 +31,8 @@ Additional Credits to   : id software
                           Tristan "Eris Falling" Clark for his Doom E1M1 remix
                           Void Warrior for testing
                           Dusty_Rhodes for testing
+                          mediocreguy for some vegetation trees sprites
+                          zdoom and doomworld community
 ===========================================================================
 * What is included *
 New levels              : Yes, 32 new levels.
@@ -110,7 +112,7 @@ Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy U
 MAP08 - Fissure
 Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 
-MAP09 - Hut and Lake
+MAP09 - Fishing Trip
 Music: decino - Augmented Borealis
 
 MAP10 - 

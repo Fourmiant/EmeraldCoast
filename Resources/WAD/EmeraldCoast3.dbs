@@ -537,7 +537,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 1;
+			gridsize = 16;
 			gridrotate = 0f;
 			gridoriginx = 0f;
 			gridoriginy = 0f;
@@ -564,6 +564,21 @@ maps
 		viewpositiony = -293.2404f;
 		viewscale = 11.03305f;
 		scriptcompiler = "zdoom_acs.cfg";
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+				}
+				
+			}
+			
+		}
+		
 	}
 	
 }

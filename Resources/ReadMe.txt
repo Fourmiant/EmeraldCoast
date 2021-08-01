@@ -8,7 +8,7 @@ Filename                : EmeraldCoast.wad
 Release date            : Unknown
 Author                  : Nerdymonk316
 Email Address           : brock_light_speed@hotmail.com
-Other Files By Author   : quite a bunch, http://www.doom2.net/~erik/ 
+Other Files By Author   : None (First WAD :O)
 Misc. Author Info       : 35 year old Doomer
 
 Description             : This is my first wad and my first shot at doom
@@ -55,12 +55,11 @@ Deathmatch 2-4 Player   : Yes, but not tested. Many levels are altered in-game
 Difficulty Settings     : Yes, so I don't want to hear any whining about it
                           being too difficult (or too easy o.O).
 
- 
 * Construction *
-Base                    : New levels from scratch
+Base                    : New levels from scratch, except for the secret level ;)
 Build Time              : No idea, way way too long anyway. I started this in
                           late 2018.
-Editor(s) used          : Slade, DoombuilderX, Gimp
+Editor(s) used          : Slade, DoombuilderX, Gimp, Ultimate Doom Builder
 
 Known Bugs              : Texture alignment bugs. Probably other bugs too.
 

@@ -211,6 +211,9 @@ maps
 			backscaley = 100;
 			backsource = 0;
 			gridsize = 8;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 		
@@ -243,7 +246,10 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 32;
+			gridsize = 1;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 		
@@ -277,6 +283,9 @@ maps
 			backscaley = 100;
 			backsource = 0;
 			gridsize = 1;
+			gridrotate = 0f;
+			gridoriginx = 0f;
+			gridoriginy = 0f;
 		}
 		
 		

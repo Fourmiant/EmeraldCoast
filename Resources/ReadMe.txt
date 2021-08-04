@@ -114,8 +114,8 @@ Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon D
 MAP09 - Fishing Trip
 Music: decino - Augmented Borealis
 
-MAP10 - 
-Music: 
+MAP10 - Eruption
+Music: James Paddock's Completed Escalation Titan - Blood and Glory
 
 
 ===========================================================================

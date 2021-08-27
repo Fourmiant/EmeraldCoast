@@ -78,7 +78,7 @@ Intro
 Music: Kolibri92's Remake of Sigil's Intro
 
 Intermission
-Music: James Paddock's original Sigil's Intermission's MIDI
+Music: Doom TNT Evilution Intermission/MAP31
 
 ===========================================================================
 Episode 1 - Space Station
@@ -122,10 +122,10 @@ Music: James Paddock's Completed Escalation Titan - Blood and Glory
 Episode 3 - UAC Base
 UAC Base is big and designed to be played in coop. Lots of mirror corridors
 and rooms.
-MAP11 - Silent Base
+MAP11 - Silent Base (This level is the very first level I designed, and has a secret place in my heart)
 Music: Descent's d_cent21
 
-MAP12 - Storage Wars
+MAP12 - Storage Wars (This level is the second level I designed, and also has a secret place in my heart)
 Music: Descent's d_cent15
 
 MAP13 - Cable Spaghetti
@@ -203,6 +203,7 @@ Music: Doom's D_BUNNY
 
 
 NOTES
+Music: James Paddock's original Sigil's Intermission's MIDI
 
 James "Jimmy" Paddock is the original creator of the SIGIL MIDI OST.
 https://www.jamespaddockmusic.com/

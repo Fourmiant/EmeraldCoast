@@ -105,7 +105,7 @@ Big open outside areas.
 MAP06 - Crash Landing
 Music: Blood's CBLOOD10
 
-MAP07 - Not so Simple
+MAP07 - Simply not Dead
 Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
 MAP08 - Fissure

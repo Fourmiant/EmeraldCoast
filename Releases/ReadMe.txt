@@ -8,7 +8,7 @@ Filename                : EmeraldCoast.wad
 Release date            : Unknown
 Author                  : Nerdymonk316
 Email Address           : brock_light_speed@hotmail.com
-Other Files By Author   : quite a bunch, http://www.doom2.net/~erik/ 
+Other Files By Author   : None (First WAD :O)
 Misc. Author Info       : 35 year old Doomer
 
 Description             : This is my first wad and my first shot at doom
@@ -28,8 +28,11 @@ Additional Credits to   : id software
                           Kinsie for the MIDI Floppy Disk
                           decino's junkyard's MIDI
                           Kolibri92's Remakes of James Paddock's MIDI
+                          Tristan "Eris Falling" Clark for his Doom E1M1 remix
                           Void Warrior for testing
                           Dusty_Rhodes for testing
+                          mediocreguy for some vegetation trees sprites
+                          zdoom and doomworld community
 ===========================================================================
 * What is included *
 New levels              : Yes, 32 new levels.
@@ -52,12 +55,11 @@ Deathmatch 2-4 Player   : Yes, but not tested. Many levels are altered in-game
 Difficulty Settings     : Yes, so I don't want to hear any whining about it
                           being too difficult (or too easy o.O).
 
- 
 * Construction *
-Base                    : New levels from scratch
+Base                    : New levels from scratch, except for the secret level ;)
 Build Time              : No idea, way way too long anyway. I started this in
                           late 2018.
-Editor(s) used          : Slade, DoombuilderX, Gimp
+Editor(s) used          : Slade, DoombuilderX, Gimp, Ultimate Doom Builder
 
 Known Bugs              : Texture alignment bugs. Probably other bugs too.
 
@@ -65,8 +67,8 @@ May Not Run With...     : Doom2.exe. Don't even try it. This requires a Zdoom
                           UDMF and ACS Scripts limiting removing port.
 
 Lame story (tm):
-You travel through dimensions and kill monsters, blah blah...
-Use your imagination.
+The UAC's Emerald Coast has gone silent and you are recalled to the Space Station
+for questionning.
 
 ===========================================================================
 Here are the maps, presented in order:
@@ -76,7 +78,7 @@ Intro
 Music: Kolibri92's Remake of Sigil's Intro
 
 Intermission
-Music: James Paddock's original Sigil's Intermission's MIDI
+Music: Doom TNT Evilution Intermission/MAP31
 
 ===========================================================================
 Episode 1 - Space Station
@@ -103,27 +105,27 @@ Big open outside areas.
 MAP06 - Crash Landing
 Music: Blood's CBLOOD10
 
-MAP07 - 
-Music: 
+MAP07 - Simply not Dead
+Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
 
-MAP08 - 
-Music: 
+MAP08 - Fissure
+Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
 
-MAP09 - 
-Music: 
+MAP09 - Fishing Trip
+Music: decino - Augmented Borealis
 
-MAP10 - 
-Music: 
+MAP10 - Eruption
+Music: James Paddock's Completed Escalation Titan - Blood and Glory
 
 
 ===========================================================================
 Episode 3 - UAC Base
 UAC Base is big and designed to be played in coop. Lots of mirror corridors
 and rooms.
-MAP11 - Silent Base
+MAP11 - Silent Base (This level is the very first level I designed, and has a secret place in my heart)
 Music: Descent's d_cent21
 
-MAP12 - Storage Wars
+MAP12 - Storage Wars (This level is the second level I designed, and also has a secret place in my heart)
 Music: Descent's d_cent15
 
 MAP13 - Cable Spaghetti
@@ -201,9 +203,8 @@ Music: Doom's D_BUNNY
 
 
 NOTES
-
-Music: Ryo Yonemitsu - Explorer - Close-off City | Megami Tensei I + II Summon Disc & Fusion Disc
-Music: Ryuji Sasai - Boss theme | Final Fantasy Mystic Quest AKA Final Fantasy USA
+Music: James Paddock's original Sigil's Intermission's MIDI
+Music: Tunnel - Tiago Santos | Blazing Chrome Original Sountrack
 
 James "Jimmy" Paddock is the original creator of the SIGIL MIDI OST.
 https://www.jamespaddockmusic.com/
@@ -212,6 +213,11 @@ Kolibri92's Remakes of Sigil can be found at the following links:
 https://www.youtube.com/Kolibri92/featured
 https://www.youtube.com/watch?v=EFltUEm3FGQ
 
-Tristan "Eris Falling" Clark can be found at the following links:
+Tristan "Eris Falling" Clark Doom E1M1 remix can be found at the following links:
 https://www.youtube.com/TristanClarkMusic/featured
 https://www.youtube.com/watch?v=WhoY0bkKozU
+
+decino's junkyard MIDI can be found at the following links:
+https://www.youtube.com/user/DecinoFreak
+https://www.youtube.com/watch?v=9sN-GdXk4TQ
+https://www.youtube.com/watch?v=UzWPpimZvPw

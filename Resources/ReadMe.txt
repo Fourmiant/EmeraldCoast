@@ -67,8 +67,8 @@ May Not Run With...     : Doom2.exe. Don't even try it. This requires a Zdoom
                           UDMF and ACS Scripts limiting removing port.
 
 Lame story (tm):
-You travel through dimensions and kill monsters, blah blah...
-Use your imagination.
+The UAC's Emerald Coast has gone silent and you are recalled to the Space Station
+for questionning.
 
 ===========================================================================
 Here are the maps, presented in order:
@@ -204,6 +204,7 @@ Music: Doom's D_BUNNY
 
 NOTES
 Music: James Paddock's original Sigil's Intermission's MIDI
+Music: Tunnel - Tiago Santos | Blazing Chrome Original Sountrack
 
 James "Jimmy" Paddock is the original creator of the SIGIL MIDI OST.
 https://www.jamespaddockmusic.com/

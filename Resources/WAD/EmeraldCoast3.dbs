@@ -330,7 +330,7 @@ maps
 			backoffsety = 0;
 			backoffsetx = 0;
 			backscalex = 100;
-			gridsize = 32;
+			gridsize = 2;
 			background = "";
 			backsource = 0;
 			backscaley = 100;
@@ -662,7 +662,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 32;
+			gridsize = 4;
 			gridrotate = 0f;
 			gridoriginx = 0f;
 			gridoriginy = 0f;

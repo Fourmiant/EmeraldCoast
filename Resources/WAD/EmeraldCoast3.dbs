@@ -297,7 +297,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 1;
+			gridsize = 2;
 			gridrotate = 0f;
 			gridoriginx = 0f;
 			gridoriginy = 0f;

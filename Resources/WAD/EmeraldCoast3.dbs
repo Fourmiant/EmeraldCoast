@@ -5,647 +5,6 @@ strictpatches = 0;
 maps
 {
 	
-	MAP01
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 4;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-	}
-	
-	
-	MAP02
-	{
-		
-		grid
-		{
-			backoffsety = 0;
-			backoffsetx = 0;
-			backscalex = 100;
-			gridsize = 4;
-			background = "";
-			backsource = 0;
-			backscaley = 100;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		resources
-		{
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP03
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 1;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP04
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 8;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP05
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 8;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		plugins
-		{
-			
-			stairsectorbuilder
-			{
-				
-				prefabs
-				{
-				}
-				
-			}
-			
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP15
-	{
-		
-		grid
-		{
-			backoffsety = 0;
-			backoffsetx = 0;
-			backscalex = 100;
-			gridsize = 32;
-			background = "";
-			backsource = 0;
-			backscaley = 100;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		resources
-		{
-		}
-		
-	}
-	
-	
-	MAP11
-	{
-		
-		grid
-		{
-			background = "";
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			backsource = 0;
-			gridsize = 8;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		resources
-		{
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP12
-	{
-		
-		grid
-		{
-			background = "";
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			backsource = 0;
-			gridsize = 1;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		resources
-		{
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP13
-	{
-		
-		grid
-		{
-			background = "";
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			backsource = 0;
-			gridsize = 2;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		resources
-		{
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP14
-	{
-		
-		grid
-		{
-			backoffsety = 0;
-			backoffsetx = 0;
-			backscalex = 100;
-			gridsize = 2;
-			background = "";
-			backsource = 0;
-			backscaley = 100;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		resources
-		{
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP32
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 8;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		plugins
-		{
-			
-			stairsectorbuilder
-			{
-				
-				prefabs
-				{
-				}
-				
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP06
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 1;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		defaultfloortexture = "RROCK19";
-		defaultceiltexture = "F_SKY1";
-		defaulttoptexture = "STARTAN2";
-		defaultwalltexture = "STARTAN2";
-		defaultbottomtexture = "STARTAN2";
-		custombrightness = 196;
-		customfloorheight = 0;
-		customceilheight = 128;
-		overridefloortexture = false;
-		overrideceiltexture = false;
-		overridetoptexture = false;
-		overridemiddletexture = false;
-		overridebottomtexture = false;
-		overridefloorheight = false;
-		overrideceilheight = false;
-		overridebrightness = false;
-		uselongtexturenames = false;
-		viewpositionx = 74.28958f;
-		viewpositiony = -833.4791f;
-		viewscale = 0.2657312f;
-		scriptcompiler = "zdoom_acs.cfg";
-	}
-	
-	
-	MAP31
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 4;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		
-		plugins
-		{
-			
-			stairsectorbuilder
-			{
-				
-				prefabs
-				{
-				}
-				
-			}
-			
-		}
-		
-		
-		fieldtypes
-		{
-			
-			linedef
-			{
-				locknumber = 0;
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP07
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 1;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-	}
-	
-	
-	MAP08
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 8;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-	}
-	
-	
-	MAP09
-	{
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 4;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-		defaultfloortexture = "SHAWN2";
-		defaultceiltexture = "F_SKY1";
-		defaulttoptexture = "MIDGRATE";
-		defaultwalltexture = "MIDGRATE";
-		defaultbottomtexture = "MIDGRATE";
-		custombrightness = 196;
-		customfloorheight = 0;
-		customceilheight = 128;
-		overridefloortexture = false;
-		overrideceiltexture = false;
-		overridetoptexture = false;
-		overridemiddletexture = false;
-		overridebottomtexture = false;
-		overridefloorheight = false;
-		overrideceilheight = false;
-		overridebrightness = false;
-		uselongtexturenames = false;
-		viewpositionx = -975.8192f;
-		viewpositiony = -293.2404f;
-		viewscale = 11.03305f;
-		scriptcompiler = "zdoom_acs.cfg";
-		
-		plugins
-		{
-			
-			stairsectorbuilder
-			{
-				
-				prefabs
-				{
-				}
-				
-			}
-			
-		}
-		
-	}
-	
-	
-	MAP10
-	{
-		
-		plugins
-		{
-			
-			stairsectorbuilder
-			{
-				
-				prefabs
-				{
-				}
-				
-			}
-			
-		}
-		
-		
-		resources
-		{
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 32;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
-		}
-		
-	}
-	
-	
 	MAP16
 	{
 		
@@ -653,7 +12,6 @@ maps
 		{
 		}
 		
-		
 		grid
 		{
 			background = "";
@@ -662,12 +20,11 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 4;
-			gridrotate = 0f;
-			gridoriginx = 0f;
-			gridoriginy = 0f;
+			gridsize = 256;
+			gridrotate = 0;
+			gridoriginx = 0;
+			gridoriginy = 0;
 		}
-		
 		
 		plugins
 		{
@@ -678,12 +35,56 @@ maps
 				prefabs
 				{
 				}
-				
 			}
-			
+		}
+		defaultfloortexture = "ROCK5";
+		defaultceiltexture = "ROCK5";
+		defaulttoptexture = "STONE6";
+		defaultwalltexture = "STONE6";
+		defaultbottomtexture = "STONE6";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		viewpositionx = -332.0804f;
+		viewpositiony = 2817.29f;
+		viewscale = 0.165806f;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
 		}
 		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
-	
 }
-
